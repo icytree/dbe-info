@@ -3,4 +3,9 @@
 ---
 # DBE-info
 > Info. 
-`ctrl c` 
+
+- Some text `ctrl c` 
+	- More stuff
+	- A
+	- B
+		- C
