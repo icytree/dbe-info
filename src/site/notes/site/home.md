@@ -4,6 +4,9 @@
 # DBE-info
 > Info. 
 
+>[!INFO]
+> Info
+
 - Some text `ctrl c` 
 	- More stuff
 	- A
