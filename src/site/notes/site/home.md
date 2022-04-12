@@ -3,4 +3,4 @@
 ---
 # DBE-info
 > Info. 
-`ctrl c`
+`ctrl c` ?
