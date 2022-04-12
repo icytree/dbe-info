@@ -7,6 +7,10 @@
 >[!INFO]
 > Info
 
+```ad-info
+Some information
+```
+
 - Some text `ctrl c` 
 	- More stuff
 	- A
