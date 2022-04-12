@@ -7,6 +7,8 @@
 >[!INFO]
 > Info
 
+## Heading2
+### Heading3
 ```ad-info
 Some information
 ```
