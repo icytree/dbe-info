@@ -18,3 +18,7 @@ Some information
 	- A
 	- B
 		- C
+
+```sh
+code block
+```
