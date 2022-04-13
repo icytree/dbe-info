@@ -23,5 +23,7 @@ Some information
 code block
 ```
 
-- [[Hotkey Sequence in the Browser - Part A|Hotkey Sequence in the Browser - Part A]]
-- [[Hotkey Sequence in the Browser - Part B|Hotkey Sequence in the Browser - Part B]]
+<!--
+- [[Hotkey Sequence in the Browser - Part A]]
+- [[Hotkey Sequence in the Browser - Part B]]
+-->
