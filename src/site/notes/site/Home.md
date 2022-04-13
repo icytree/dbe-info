@@ -46,6 +46,18 @@ code block
 	- `ctrl k`
 	- `ctrl v`
 	- `enter`
-	- `ctrl w` x2
-	- `ctrl shift t` x2
+	- `alt down` x2
+	- `ctrl enter`
+	- `alt down`
+	- `enter`
+	- `alt left`
+	- `ctrl w` x3
+- Sequence 5 (to remember)
+	- `ctrl shift t` x3
+	- `win left`
+	- `enter`
 	- `alt tab`
+
+- Open a link in a new tab
+- Switch to next tab
+- 
