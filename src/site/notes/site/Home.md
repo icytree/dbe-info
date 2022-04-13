@@ -4,9 +4,6 @@
 # DBE-info
 > Info. 
 
->[!INFO]
-> Info
-
 ## Heading2
 ### Heading3
 #### H4
