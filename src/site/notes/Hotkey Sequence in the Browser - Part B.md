@@ -3,7 +3,7 @@
 ---
 - Part B
 	- Sequence 1 
-		- `ctrl left-click` this [link](https://obsidian.md/) twice (open link in a new tab)
+		- `ctrl left-click` this [link](https://obsidian.md/) (open link in a new tab)
 	- Sequence 2 (memorize it first)
 		- `ctrl tab` (go to the tab on the right)
 		- `ctrl l` (select URL)
