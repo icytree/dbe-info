@@ -22,5 +22,9 @@
 		- `ctrl l` (select URL)
 		- `ctrl c` (copy)
 		- `ctrl tab` (go to the tab on the right)
-	- End
-		- `left-click` on this [[Hotkey Sequence in the Browser - Part B|link]] for part B (open in current pane)
+	- Sequence 6
+		- `ctrl l` (select URL)
+		- `ctrl v` (paste)
+		- `esc` (quit replacing the URL)
+
+`left-click` on this [[Hotkey Sequence in the Browser - Part B|link]] to go further in part B.
