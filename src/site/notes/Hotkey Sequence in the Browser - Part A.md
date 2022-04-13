@@ -1,0 +1,22 @@
+---
+{"dg-publish":true,"permalink":"/hotkey-sequence-in-the-browser-part-a/"}
+---
+- Part A
+	- Sequence 1
+		- `ctrl left-click` this [link](https://obsidian.md/) twice (open link in a new tab)
+	- Sequence 2
+		- `ctrl l` (select URL)
+		- `ctrl c` (copy)
+	- Sequence 3 (memorize it first)
+		- `ctrl tab`  x2 (go to the tab on the right)
+		- `ctrl shift tab` x2 (go to the tab on the left)
+	- Sequence 4 (memorize it first)
+		- `ctrl t` (open new tab)
+		- `ctrl v` (paste)
+		- `enter`
+	- Sequence 5 (memorize it first)
+		- `ctrl shift tab` (go to the tab on the left)
+		- `ctrl l` (select URL)
+		- `ctrl c` (copy)
+		- `ctrl tab` (go to the tab on the right)
+		- `left-click` on this [[Hotkey Sequence in the Browser - Part B|link]] for part B (open in current pane)
