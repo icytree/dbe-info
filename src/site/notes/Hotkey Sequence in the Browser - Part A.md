@@ -12,6 +12,7 @@
 	- Sequence 3 (memorize it first)
 		- `ctrl tab`  x2 (go to the tab on the right, twice)
 		- `ctrl shift tab` x2 (go to the tab on the left, twice)
+		- You can repeat it to further get use to it.
 	- Sequence 4 (memorize it first)
 		- `ctrl t` (open new tab)
 		- `ctrl v` (paste)
