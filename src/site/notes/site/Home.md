@@ -34,10 +34,11 @@ code block
 	- `ctrl l`
 	- `ctrl c`
 	- `ctrl shift tab`
-- Sequence 3
+- Sequence 3 (to remember)
 	- `ctrl n`
 	- `win right`
 	- `enter`
+- Sequence 4
 	- `alt tab`
 	- `ctrl v`
 	- `enter`
