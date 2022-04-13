@@ -1,7 +1,7 @@
 ---
 {"dg-publish":true,"permalink":"/hotkey-sequence-in-the-browser-part-a/"}
 ---
-(Assuming you are on Windows using a maintsream browser)
+(Assuming you are on Windows using a mainstream browser)
 
 - Part A
 	- Sequence 1
