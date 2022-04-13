@@ -22,4 +22,5 @@
 		- `ctrl l` (select URL)
 		- `ctrl c` (copy)
 		- `ctrl tab` (go to the tab on the right)
+	- End
 		- `left-click` on this [[Hotkey Sequence in the Browser - Part B|link]] for part B (open in current pane)
