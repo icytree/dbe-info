@@ -27,20 +27,24 @@ code block
 
 [Obsidian](https://obsidian.md/)
 
-- `ctrl left-click` this [link](https://obsidian.md/)
-- `ctrl tab`
-- `ctrl l`
-- `ctrl c`
-- `ctrl shift tab`
-- `ctrl n`
-- `win right`
-- `enter`
-- `alt tab`
-- `ctrl v`
-- `enter`
-- `ctrl t`
-- `ctrl k`
-- `ctrl v`
-- `enter`
-- `ctrl w` x2
-- `ctrl shift t` x2
+- Sequence 1
+	- `ctrl left-click` this [link](https://obsidian.md/)
+- Sequence 2 (to remember)
+	- `ctrl tab`
+	- `ctrl l`
+	- `ctrl c`
+	- `ctrl shift tab`
+- Sequence 3
+	- `ctrl n`
+	- `win right`
+	- `enter`
+	- `alt tab`
+	- `ctrl v`
+	- `enter`
+	- `ctrl t`
+	- `ctrl k`
+	- `ctrl v`
+	- `enter`
+	- `ctrl w` x2
+	- `ctrl shift t` x2
+	- `alt tab`
