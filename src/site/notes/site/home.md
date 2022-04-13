@@ -27,3 +27,5 @@ code block
 ```
 
 ![[home 2022-04-12 20.02.46.excalidraw]]
+
+[Obsidian](https://obsidian.md/)
