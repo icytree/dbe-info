@@ -15,7 +15,7 @@ Some information
 ```
 
 - Some text `ctrl c` 
-	- More stuff with `inline code5`
+	- More stuff with `inline code6`
 	- A
 	- B
 		- C
