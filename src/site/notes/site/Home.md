@@ -25,7 +25,7 @@ Some information
 code block
 ```
 
-⬆️`⬇️`➡️⬅️ / ▶◀️🔼🔽 / 🔼🔽➡️⬅️
+`⬆️`a`⬇️`➡️⬅️ / ▶◀️🔼🔽 / 🔼🔽➡️⬅️
 
 - [[site/Hotkey Sequence in the Browser - Part A|Hotkey Sequence in the Browser - Part A]]
 - [[site/Hotkey Sequence in the Browser - Part B|Hotkey Sequence in the Browser - Part B]]
