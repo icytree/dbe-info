@@ -3,8 +3,6 @@
 ---
 
 # DBE-info
-> Info. 
-
 ## Heading2
 ### Heading3
 #### H4
